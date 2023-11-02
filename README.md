@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 💬 Ask me about **Java, C++ ,C,React**
+- 💬 Ask me about **Java,React,React native**
 
 - 📫 How to reach me **tharindunavi1@gmail.com**
 
