@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21253294tharindu&label=Profile%20views&color=0e75b6&style=flat" alt="it21253294tharindu" /> </p>
 
-- 🌱 I’m currently learning **Node JS,React JS,React native,Nest js**
+- 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **Java, C++ ,C,React**
 
