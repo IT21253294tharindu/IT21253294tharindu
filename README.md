@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Java,React,MERN Stack*
+- 💬 Ask me about **Java,React,MERN Stack**
 
 - 📫 How to reach me **tharindunavi1@gmail.com**
 
