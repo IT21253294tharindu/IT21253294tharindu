@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21253294tharindu&label=Profile%20views&color=0e75b6&style=flat" alt="it21253294tharindu" /> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Java,React,MERN Stack,React native**
+- 💬 Ask me about **Java,React,MERN Stack*
 
 - 📫 How to reach me **tharindunavi1@gmail.com**
 
