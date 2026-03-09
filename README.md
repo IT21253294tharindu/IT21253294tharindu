@@ -1,6 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Tharindu Naveen</h1>
-<h3 align="center">A Software Engineer Undergraduate</h3>
+<h3 align="center">A Software Engineer graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21253294tharindu&label=Profile%20views&color=0e75b6&style=flat" alt="it21253294tharindu" /> </p>
