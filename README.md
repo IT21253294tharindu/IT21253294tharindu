@@ -10,6 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21253294tharindu&label=Profile%20views&color=0e75b6&style=flat" alt="it21253294tharindu" /> </p>
 
+- 🌐 Focused on building **scalable web applications**.
 - 🛠️ Currently working on: **Full Supermarket Retail Management System**
 - 🌱 Learning: **Flutter & AI Agents Developments**
 - 💬 Ask me about **Java,React,MERN Stack**
