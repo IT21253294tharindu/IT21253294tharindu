@@ -1,6 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Tharindu Naveen</h1>
-<h3 align="center">I am Software Engineer graduate focused on building scalable web applications and intuitive mobile experiences. Currently, I am expanding my mobile development skills with **Flutter** while deepening my expertise in the **MERN stack**.</h3>
+<h3 align="center">I am Software Engineer graduate focused on building scalable web applications and intuitive mobile experiences. Currently, I am expanding my mobile development skills with Flutter while deepening my expertise in the MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21253294tharindu&label=Profile%20views&color=0e75b6&style=flat" alt="it21253294tharindu" /> </p>
